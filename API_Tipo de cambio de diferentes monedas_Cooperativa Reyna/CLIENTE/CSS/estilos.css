@@ -1,0 +1,48 @@
+body {
+    padding-top: 10rem;
+    font-family: 'Exo 2', sans-serif;
+    background-color: #1c2e48;
+}
+
+#img {
+    width: 150px;
+}
+
+.fondo {
+    background-color: #f4f4f2;
+}
+
+#main {
+    padding: 3rem 1.5rem;
+    color: white;
+}
+
+.tarjeta {
+    background-color: #027f62;
+    width: 18rem;
+}
+
+
+#titulo {
+    font-size: 2rem;
+}
+
+#valor {
+    font-size: 1rem;
+    margin-left: 60px;
+}
+
+.centrar {
+    text-align:center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contenedorTable {
+    margin-top: 100px; 
+    color: white;
+}
+
+.tabla {
+    color: white;
+}
